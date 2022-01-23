@@ -2,6 +2,12 @@
 
 ### Vectorized versions of the original FreeDOS logo
 ---
+
+*Disclaimer*: I am not involved with the FreeDOS project in any capacity, I am simply a fan who couldn't find a good copy of the FreeDOS logo to use in a project, and decided to make my own. 
+
+### Why does this exist?
+---
+
 While compiling images to add to a multiboot USB drive, I was looking for related logos and icons to add for the boot menu and discovered that I could not find a clear, medium- or high-resolution version of the FreeDOS logo *anywhere*. I gather branding isn't really the top priority for that project, which is fair enough, but I felt like this might be useful for other folks so after I traced it out in Illustrator, I laid out several variations in light and dark variations, and figured I would post it all up here for anyone who might need it. If you are one of the developers on the FreeDOS project, and feel that I have missed anything or would prefer to take over this repo (or would like me to simply remove it for any reason), feel free to get in touch via Issues.
 
 Included are two primary variations--one that was traced from the original low-res raster file using the pen tool, and the other was created using typed letters (Acumin Variable Concept font) which were then manipulated using the shape tool to criss-cross in a knot, and then the edges were stroked to produce a reasonably accurate analog of the original with slightly cleaner curves. For each there are SVG files, multiple resolution PNG files in dark, light, dark w/background, and light w/background. The original .ai Illustrator file is also available.
