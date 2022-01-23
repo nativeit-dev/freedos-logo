@@ -6,9 +6,9 @@ While compiling images to add to a multiboot USB drive, I was looking for relate
 
 Included are two primary variations--one that was traced from the original low-res raster file using the pen tool, and the other was created using typed letters (Acumin Variable Concept font) which were then manipulated using the shape tool to criss-cross in a knot, and then the edges were stroked to produce a reasonably accurate analog of the original with slightly cleaner curves. For each there are SVG files, multiple resolution PNG files in dark, light, dark w/background, and light w/background. The original .ai Illustrator file is also available.
 
----
 
 ### Samples:
+---
 
 ![256px width FreeDOS logo in black](https://github.com/nativeit-dev/freedos-logo/blob/42a595b7946417f3f7f68cfd12635b180d2c473b/PNG/traced-light-256w.png)![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/42a595b7946417f3f7f68cfd12635b180d2c473b/PNG/traced-dark-256w.png)
 ### Traced
