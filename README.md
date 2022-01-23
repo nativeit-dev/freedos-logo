@@ -20,4 +20,4 @@ Included are two primary variations--one that was traced from the original low-r
 ### Traced w/Background
 
 ![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/181fcfd7ca114c8a29d76aa890394c50f096f471/PNG/Square/typed-square-light-256.png)![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/181fcfd7ca114c8a29d76aa890394c50f096f471/PNG/Square/typed-square-dark-256.png)
-Typed w/Background
+### Typed w/Background
