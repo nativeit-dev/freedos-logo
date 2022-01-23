@@ -16,14 +16,15 @@ Included are two primary variations--one that was traced from the original low-r
 ### Samples:
 ---
 
-![256px width FreeDOS logo in black](https://github.com/nativeit-dev/freedos-logo/blob/42a595b7946417f3f7f68cfd12635b180d2c473b/PNG/traced-light-256w.png)![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/42a595b7946417f3f7f68cfd12635b180d2c473b/PNG/traced-dark-256w.png)
 ### Traced
+![256px width FreeDOS logo in black](https://github.com/nativeit-dev/freedos-logo/blob/42a595b7946417f3f7f68cfd12635b180d2c473b/PNG/traced-light-256w.png)![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/42a595b7946417f3f7f68cfd12635b180d2c473b/PNG/traced-dark-256w.png)
 
-![256px width FreeDOS logo in black](https://github.com/nativeit-dev/freedos-logo/blob/42a595b7946417f3f7f68cfd12635b180d2c473b/PNG/typed-light-256w.png)![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/42a595b7946417f3f7f68cfd12635b180d2c473b/PNG/typed-dark-256w.png)
 ### Typed
+![256px width FreeDOS logo in black](https://github.com/nativeit-dev/freedos-logo/blob/42a595b7946417f3f7f68cfd12635b180d2c473b/PNG/typed-light-256w.png)![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/42a595b7946417f3f7f68cfd12635b180d2c473b/PNG/typed-dark-256w.png)
 
-![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/181fcfd7ca114c8a29d76aa890394c50f096f471/PNG/Square/traced-square-light-256.png)![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/181fcfd7ca114c8a29d76aa890394c50f096f471/PNG/Square/traced-square-dark-256.png)
 ### Traced w/Background
+![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/181fcfd7ca114c8a29d76aa890394c50f096f471/PNG/Square/traced-square-light-256.png)![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/181fcfd7ca114c8a29d76aa890394c50f096f471/PNG/Square/traced-square-dark-256.png)
 
-![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/181fcfd7ca114c8a29d76aa890394c50f096f471/PNG/Square/typed-square-light-256.png)![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/181fcfd7ca114c8a29d76aa890394c50f096f471/PNG/Square/typed-square-dark-256.png)
 ### Typed w/Background
+![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/181fcfd7ca114c8a29d76aa890394c50f096f471/PNG/Square/typed-square-light-256.png)![256px width FreeDOS logo in white](https://github.com/nativeit-dev/freedos-logo/blob/181fcfd7ca114c8a29d76aa890394c50f096f471/PNG/Square/typed-square-dark-256.png)
+
