@@ -1,6 +1,6 @@
-# freedos-logo
+# FreeDOS Logo
 
-### Vectorized trace of original FreeDOS logo
+### Vectorized versions of the original FreeDOS logo
 ---
 While compiling images to add to a multiboot USB drive, I was looking for related logos and icons to add for the boot menu and discovered that I could not find a clear, medium- or high-resolution version of the FreeDOS logo *anywhere*. I gather branding isn't really the top priority for that project, which is fair enough, but I felt like this might be useful for other folks so after I traced it out in Illustrator, I laid out several variations in light and dark variations, and figured I would post it all up here for anyone who might need it. If you are one of the developers on the FreeDOS project, and feel that I have missed anything or would prefer to take over this repo (or would like me to simply remove it for any reason), feel free to get in touch via Issues.
 
